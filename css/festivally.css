@@ -1,0 +1,46 @@
+body{
+}
+
+section{
+	min-height: 200px;
+	padding: 20px;
+}
+
+img{
+	max-width: 500px;
+}
+
+.red-bk{
+	background-color: #FF0030;
+	color: #FFFFFF;
+}
+
+.red-hr{
+	border: 2px solid #FF0300;
+	margin: 0;
+}
+
+.content-section{
+	padding: 20px;
+	width: 50%;
+}
+
+.festivally-logo-text-red{
+	color: #FF0030;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.festivally-logo-text-white{
+	font-weight: bold;
+	font-style: italic;
+}
+
+.hero-img{
+	max-width: 45%;
+}
+
+.social-media-link{
+	text-decoration: none;
+	color: #ffffff;
+}
