@@ -1,6 +1,10 @@
 body{
 }
 
+footer{
+	background-color: #222;
+}
+
 section{
 	min-height: 200px;
 	padding: 20px;
@@ -8,7 +12,7 @@ section{
 }
 
 img{
-	max-width: 500px;
+	max-height: 450px;
 }
 
 .red-bk{
